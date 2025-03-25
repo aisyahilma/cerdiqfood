@@ -48,11 +48,11 @@ Inspirations:
 
 ## UI Designs
 
-- Figma: <https://www.figma.com/design/TC8pwzy5HpWoFAQWJpN6IJ/amazingsafari.haidar.dev>
+- Figma: <https://www.figma.com/design/73GuzBkdlfqEcPVbayCuhR/Cerdiq-Food-e-commerce?node-id=0-1&m=dev&t=Udb76xts085BlITy-1>
 
 ## REST API Endpoints
 
-- Production: `https://www.figma.com/design/73GuzBkdlfqEcPVbayCuhR/Cerdiq-Food-e-commerce?node-id=0-1&m=dev&t=Udb76xts085BlITy-1`
+- Production: `https://api.cerdiqfood.com`
 - Local: `http://localhost:3000`
 
 | Endpoint          | HTTP     | Description          |
